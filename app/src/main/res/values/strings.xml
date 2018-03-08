@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Constraint Layout Playground</string>
+    <string name="title">Title</string>
+    <string name="barrier_title">Barrier</string>
+    <string name="barrier_documentation">A Barrier references multiple widgets as input, and creates a virtual guideline based on the most extreme widget on the specified side. For example, a left barrier will align to the left of all the referenced views.</string>
+</resources>
